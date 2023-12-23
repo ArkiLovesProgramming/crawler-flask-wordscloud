@@ -1,0 +1,1 @@
+Crawled on Douban and collected movies data. Stored data from douban with SQLite3 file database. Adopted flask web framework and developed web page for data displaying. Introdued wordscloud to beautify data. 
